@@ -5,3 +5,13 @@ TDD e Java - Testes automatizados com JUnit
 
 ### Asserts
 
+### Annotations
+
+* BeforeEach
+* AfertEach
+* BeforeAll
+* AfterAll
+
+### Attention
+
+Do not test classes without business rules / logic, like getters and setters
